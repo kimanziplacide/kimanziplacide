@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimanziplacide
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at ALU
 - - 📫 How to reach me
   - contact +250 790101642
   - email: imanzikplacide603@gmail.com
