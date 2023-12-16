@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimanziplacide
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning software engineering at ALU  
-  **This is my school github**
+- **This is my school github**
   ```
   https://github.com/pimanzi
   ```
